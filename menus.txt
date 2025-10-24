@@ -12,3 +12,106 @@
           </ul>
         </div>
       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="tab-panels">
+      
+      <div id="leche" class="panel" role="tabpanel" hidden>
+        <h3>Ganado lechero</h3>
+        <div class="products-list">
+          <ul>
+            <a href="fichas/ficha-lecheras.html"><li><i class="fa-solid fa-drumstick-bite"></i> PX Lechero</li></a>
+            
+            
+          </ul>
+        </div>
+      </div>
+
+      <div id="carne" class="panel" role="tabpanel" hidden>
+        <h3>Ganado para carne</h3>
+        <div class="products-list">
+          <ul>
+            <a href="fichas/ficha-pxcarne.html"><li><i class="fa-solid fa-drumstick-bite"></i> PX Carne C15</li></a>
+            
+            
+          </ul>
+        </div>
+      </div>
+      
+
+      <div id="porcinos" class="panel" role="tabpanel" hidden>
+        <h3>Levaduras</h3>
+        <div class="products-list">
+          <ul>
+            <li><i class="fa-solid fa-bacon"></i> BY WAYS</li>
+            
+          </ul>
+        </div>
+      </div>
+
+      <div id="ovinos" class="panel" role="tabpanel" hidden>
+        <h3>Ovinos</h3>
+        <div class="products-list">
+          <ul>
+            <a href="fichas/ficha-ovinos.html"><li><i class="fa-solid fa-paw"></i> Nucleo mineral para ovinos</li></a>
+            
+            
+          </ul>
+        </div>
+      </div>
+
+      
+
+      <div id="equinos" class="panel" role="tabpanel" hidden>
+        <h3>Equinos</h3>
+        <div class="products-list">
+          <ul>
+            <a href="fichas/ficha-equinos.html"><li><i class="fa-solid fa-horse"></i> Premix Equinos</li></a>
+            
+            
+            
+          </ul>
+        </div>
+      </div>
+
+      <div id="levaduras" class="panel" role="tabpanel" hidden>
+        <h3>Levaduras</h3>
+        <div class="products-list">
+          <ul>
+            <a href="fichas/ficha-byways.html"><li><i class="fa-solid fa-fish"></i>BYWAYS</li></a>
+            
+            
+          </ul>
+        </div>
+      </div>
+
+      <div id="todos" class="panel active" role="tabpanel" >
+        <h3>Todos los productos</h3>
+        <div class="products-list">
+          <ul>
+             <a href="fichas/ficha-pxcarne.html"><li><i class="fa-solid fa-drumstick-bite"></i> PX Carne C15</li></a>
+             <a href="fichas/ficha-lecheras.html"><li><i class="fa-solid fa-drumstick-bite"></i> PX Lechero</li></a>
+             <a href="fichas/ficha-byways.html"><li><i class="fa-solid fa-fish"></i>BYWAYS</li></a>
+             <a href="fichas/ficha-ovinos.html"><li><i class="fa-solid fa-paw"></i> Nucleo mineral para ovinos</li></a>
+             <a href="fichas/ficha-equinos.html"><li><i class="fa-solid fa-horse"></i> Premix Equinos</li></a>
+            
+            
+          </ul>
+        </div>
+      </div>
+    </div>
