@@ -1,0 +1,14 @@
+ <div id="todos" class="panel active" role="tabpanel" >
+        <h3>Todos los productos</h3>
+        <div class="products-list">
+          <ul>
+             <a href="fichas/ficha-pxcarne.html"><li><i class="fa-solid fa-drumstick-bite"></i> PX Carne C15</li></a>
+             <a href="fichas/ficha-lecheras.html"><li><i class="fa-solid fa-drumstick-bite"></i> PX Lechero</li></a>
+             <a href="fichas/ficha-byways.html"><li><i class="fa-solid fa-fish"></i>BYWAYS</li></a>
+             <a href="fichas/ficha-ovinos.html"><li><i class="fa-solid fa-paw"></i> Nucleo mineral para ovinos</li></a>
+             <a href="fichas/ficha-equinos.html"><li><i class="fa-solid fa-horse"></i> Premix Equinos</li></a>
+            
+            
+          </ul>
+        </div>
+      </div>
